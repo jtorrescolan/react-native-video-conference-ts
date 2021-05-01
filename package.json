@@ -149,5 +149,8 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "@react-native-community/checkbox": "^0.5.7"
   }
 }
