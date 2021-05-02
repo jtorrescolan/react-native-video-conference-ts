@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { View, Text, SafeAreaView } from 'react-native';
 import CheckBox from '@react-native-community/checkbox';
-import { AddComponent } from '@components/Add';
+import { AddComponent } from '~/components/Add';
 
 const Demo: React.FC<any> = () => {
   return (

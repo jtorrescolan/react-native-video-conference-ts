@@ -2,8 +2,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "*": ["src/*"],
-      "@components/*": ["src/components/*"]
+      "~/*": ["src/*"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
