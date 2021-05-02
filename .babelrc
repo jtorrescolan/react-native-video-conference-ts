@@ -1,0 +1,12 @@
+{
+  "extends": "./babel.config.js",
+  "plugins": [
+    [
+      "babel-plugin-root-import",
+      {
+        "rootPathSuffix": "./",
+        "rootPathPrefix": "~/"
+      }
+    ]
+  ]
+}
