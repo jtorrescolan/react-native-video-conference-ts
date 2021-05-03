@@ -1,14 +1,11 @@
 {
   "name": "react-native-video-conference-ts",
-  "version": "0.1.6",
+  "version": "0.1.10",
   "description": "some description",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
-  "react-native": "src/index",
-  "source": "src/index",
   "files": [
-    "src",
     "lib",
     "android",
     "ios",
@@ -44,7 +41,7 @@
   },
   "homepage": "https://github.com/jtorrescolan/react-native-video-conference-ts#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "http://localhost:4873/"
   },
   "devDependencies": {
     "@babel/cli": "^7.13.16",
